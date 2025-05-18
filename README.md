@@ -15,8 +15,6 @@ This repository contains my practice projects, course notes, and learning materi
 
 - Master PyTorch and TensorFlow frameworks
 - Gain practical experience with RAG and fine-tuning LLMs
-- Develop a portfolio of ML projects
-- Prepare for ML engineering roles
 
 ## License
 
